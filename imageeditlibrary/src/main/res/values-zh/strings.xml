@@ -20,6 +20,7 @@
     <string name="no_choose">请选择一张需要编辑的图片</string>
     <string name="auto_newline">自动换行</string>
     <string name="save_error">图片保存失败</string>
+    <string name="handing">处理中...</string>
 
     <string-array name="fliters">
         <item>原始</item>
@@ -40,4 +41,8 @@
     <string name="exit_without_save">编辑的图片还未保存,确认退出吗？</string>
     <string name="confirm">确认</string>
     <string name="cancel">取消</string>
+
+    <string name="beauty">美颜</string>
+    <string name="smooth">磨皮</string>
+    <string name="white_skin">美白</string>
 </resources>
